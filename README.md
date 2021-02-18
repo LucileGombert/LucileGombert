@@ -4,7 +4,9 @@ Je suis développeuse web et vous pourrez trouver ici tous les projets que j’a
 
 
  ⇢ Pour en savoir un peu plus sur moi :
-<a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/malt.png"></a>
+<br>
+<br><a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/logomalt.jpg">
+<a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/logomalt.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lucile-gombert/"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/linkedin.png"></a>
 
 
