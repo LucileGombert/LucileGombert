@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, je suis Lucile <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px"></h1>
 
-<h4>Je suis développeuse web et vous pourrez trouver ici tous les projets que j’ai développé :blush::computer:</h4>
+<h4>Je suis développeuse web et vous pourrez découvrir ici tous les projets que j’ai développé :blush::computer:</h4>
 
 
  ⇢ Pour en savoir un peu plus sur moi :
