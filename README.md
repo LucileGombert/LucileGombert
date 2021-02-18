@@ -6,7 +6,7 @@
  ⇢ Pour en savoir un peu plus sur moi :
 <br>
 <br>
-<a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/cv.png">&nbsp;&nbsp;
+<a href="https://lucilegombert.github.io/CV/"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/cv.png">&nbsp;&nbsp;
 <a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/logomalt.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lucile-gombert/"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/linkedin.png"></a>
 
