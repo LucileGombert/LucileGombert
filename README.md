@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi there, je suis Lucile <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px"></h1>
 
-<!--
-**LucileGombert/LucileGombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeuse web et vous pourrez trouver ici tous les projets que j’ai développé :blush::computer:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⇢ Pour en savoir un peu plus sur moi :
+<a href="https://www.malt.fr/profile/lucilegombert"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/malt.png"></a>
+<a href="https://www.linkedin.com/in/lucile-gombert/"><img height="30" src="https://github.com/LucileGombert/LucileGombert/blob/main/images/linkedin.png"></a>
+
+
+
+
+⇢ Langages et outils :
+![](https://github.com/LucileGombert/LucileGombert/blob/main/images/icons.png)
